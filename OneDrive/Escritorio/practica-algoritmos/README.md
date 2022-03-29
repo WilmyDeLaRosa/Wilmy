@@ -1,1 +1,0 @@
-# Practica Algoritmos 1.
